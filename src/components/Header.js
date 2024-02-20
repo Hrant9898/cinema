@@ -17,6 +17,7 @@ function Header(props) {
                         <li className='nav__list'>SIGN UP</li>
                     </ul>
                 </nav>
+                    <h1>Hello</h1>
                 </div>
             </header>
         </div>
