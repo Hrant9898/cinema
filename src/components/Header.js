@@ -18,6 +18,7 @@ function Header(props) {
                     </ul>
                 </nav>
                     <h1>Hello</h1>
+                    <h2>Hello taza</h2>
                 </div>
             </header>
         </div>
