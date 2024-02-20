@@ -11,7 +11,6 @@ function Header(props) {
                 </figure>
                 <nav className='nav'>
                     <ul className='nav__block'>
-                        <li className='nav__list'>Home</li>
                         <li className='nav__list'>Catalog</li>
                         <li className='nav__list'>Contact Us</li>
                         <li className='nav__list'>SIGN IN</li>
